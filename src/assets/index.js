@@ -44,5 +44,6 @@ import building from './building.svg'
 import dome from './dome.svg'
 import heart from './heart.svg'
 import bar from './bar.svg'
+import cloud from './cloud.png'
 
-export {Jadoo, Rec, Decore, Mic, OPTIONS, Play, Group4, BestFlights, Rec157, red, Traveller, plane, CalWethear, Settings, London, Rome, Europe, bar, heart, arrow, DestDecore, Image, L1, L2, L3, lg1, lg2, lg3, lg4, lg5,testimonials, dots, Bg, Tele, Mail, facebook, dome, appstore, playstore, x, insta, face, UpDown, Testi, Girl, building} 
+export {Jadoo, Rec, Decore, Mic, OPTIONS, Play, Group4, BestFlights, Rec157, red, Traveller, plane, CalWethear, Settings, London, Rome, Europe, bar, heart, arrow, DestDecore, Image, L1, L2, L3, lg1, lg2, lg3, lg4, lg5,testimonials, dots, Bg, Tele, Mail, facebook, dome, appstore, playstore, x, insta, face, UpDown, Testi, Girl, building, cloud} 

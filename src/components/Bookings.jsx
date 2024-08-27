@@ -1,5 +1,5 @@
 
-import { bar, building, dome, Girl, heart, L1, L2, L3, OPTIONS } from "../assets"
+import { bar, building, cloud, dome, Girl, heart, L1, L2, L3, OPTIONS } from "../assets"
 
 const Bookings = () => {
     return (
@@ -63,9 +63,11 @@ const Bookings = () => {
                 <p className="mt-[5%] font-poppins font-medium text-[0.875em]"><span className="text-[#5E6282]">40%</span> completed</p>
                 <img src={bar} className="mt-[7%] -ml-[10%] scale-75" />
                 </div>
+                
             </div>
+            
         </div>
-        
+        <img src={cloud} className="absolute z-[-1] ml-[44%] -mt-[10%]" />
     </div>
     )
 }
