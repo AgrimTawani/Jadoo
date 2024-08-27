@@ -67,7 +67,7 @@ const Bookings = () => {
             </div>
             
         </div>
-        <img src={cloud} className="absolute z-[-1] ml-[44%] -mt-[10%] shadow-none" />
+        <img src={cloud} className="absolute z-[-1] ml-[44%] -mt-[10%] shadow-none hidden sm:block" />
     </div>
     )
 }
