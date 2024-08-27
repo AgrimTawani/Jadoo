@@ -24,7 +24,7 @@ const Subscribe = () => {
         </div>
         <div className="flex sm:gap-5 gap-9 absolute w-[50%] sm:scale-100 scale-75 sm:-mt-[18%] -mt-[23%]  sm:ml-[27%] ml-[15%]">
             <div className="bg-white flex sm:px-[1.75em] px-[1em] w-[100%] sm:py-[0.35em] rounded-lg">
-                <img src={Mail} className="scale-90" />
+                <img src={Mail} className="sm:scale-90 scale-75" />
                 <input type="email" value={mail} onChange={handleChange} placeholder="Your Email" className="placeholder:opacity-25 border-none outline-none sm:ml-[0%] sm:w-[100%] p-[1em]"/>
             </div>
             <button onClick={handleClick} className="sm:px-[0.75em] px-[1em] font-OpenSans font-semibold sm:py-[0.35em] rounded-lg text-white sm:text-[1.1em] bg-[#FF5349] sm:w-[30%] z-[20] ">Subscribe</button>

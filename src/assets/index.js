@@ -35,6 +35,14 @@ import insta from './insta.png'
 import x from './x.svg'
 import appstore from './appstore.svg'
 import playstore from './playstore.svg'
+import face from './face.svg'
+import UpDown from './UpDown.png'
+import Testi from './Testi.png'
+import Girl from './Girl.svg'
+import OPTIONS from './OPTIONS.svg'
+import building from './building.svg'
+import dome from './dome.svg'
+import heart from './heart.svg'
+import bar from './bar.svg'
 
-
-export {Jadoo, Rec, Decore, Mic, Play, Group4, BestFlights, Rec157, red, Traveller, plane, CalWethear, Settings, London, Rome, Europe, arrow, DestDecore, Image, L1, L2, L3, lg1, lg2, lg3, lg4, lg5,testimonials, dots, Bg, Tele, Mail, facebook, appstore, playstore, x, insta} 
+export {Jadoo, Rec, Decore, Mic, OPTIONS, Play, Group4, BestFlights, Rec157, red, Traveller, plane, CalWethear, Settings, London, Rome, Europe, bar, heart, arrow, DestDecore, Image, L1, L2, L3, lg1, lg2, lg3, lg4, lg5,testimonials, dots, Bg, Tele, Mail, facebook, dome, appstore, playstore, x, insta, face, UpDown, Testi, Girl, building} 
